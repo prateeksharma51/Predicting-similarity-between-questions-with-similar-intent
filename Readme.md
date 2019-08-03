@@ -69,9 +69,9 @@ http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/
 
 
 
-<h3>How significant each of the feature is in predicting if two given questions are simillar or not : </h3>
 
-[https://github.com/prateeksharma51/Predicting-similarity-between-questions-with-similar-intent/blob/master/Feature%20Importances.png?raw=true]
+
+![<h3>How significant each of the feature is in predicting if two given questions are simillar or not : </h3>](https://github.com/prateeksharma51/Predicting-similarity-between-questions-with-similar-intent/blob/master/Feature%20Importances.png)
 
 
 <h4>Performance metric used:</h4>
